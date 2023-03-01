@@ -1,0 +1,3 @@
+<typeHandlers>
+    <typeHandler handler="ee.tallink.test.backoffice.ibatis.LocalDateTimeHandler"/>
+</typeHandlers>
